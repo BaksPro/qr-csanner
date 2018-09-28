@@ -4,7 +4,7 @@
 
 1.  Clone and install dependencies:  
 ```
-$ git clone https://github.com/BaksPro/qr-csanner.git && cd qr-scanner
+$ git clone https://github.com/BaksPro/qr-scanner.git && cd qr-scanner
 $ npm install
 ```
 1.  In  terminal run application :
